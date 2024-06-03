@@ -4,7 +4,7 @@
   <a href="https://murino.hh.ru/resume/6daa6433ff0527088f0039ed1f567632524532">
     <img src="https://toplogos.ru/images/logo-hh-ru.png" alt="hh Badge"width="100"/>
   </a>
-   <a href="https://web.telegram.org/k/#@olivia_lichtenberg">
+   <a href="https://t.me/olivia_lichtenberg">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png" alt="Telegram Badge"width="160"/>
   </a>
 </div>
