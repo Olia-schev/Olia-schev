@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgxa2VlbDA0cTVnMzFzY2ZsdHZzaTk0YmlkeTNmY3VsZXo4bGE1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgxa2VlbDA0cTVnMzFzY2ZsdHZzaTk0YmlkeTNmY3VsZXo4bGE1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 <div id="header" align="center">
   <a href="https://murino.hh.ru/resume/6daa6433ff0527088f0039ed1f567632524532">
     <img src="https://toplogos.ru/images/logo-hh-ru.png" alt="hh Badge"width="100"/>
